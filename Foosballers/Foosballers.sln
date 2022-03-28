@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foosballers.API", "Foosballers.API\Foosballers.API.csproj", "{3DB53255-99CC-406C-A681-F74C00E0500C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foosballers.Core", "Foosballers.Core\Foosballers.Core.csproj", "{422FF18D-A821-4534-8155-63BDFFAE14B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foosballers.Core.Tests", "Foosballers.Core.Tests\Foosballers.Core.Tests.csproj", "{A7235D1C-E678-4A03-B592-7AB83C5D8E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB53255-99CC-406C-A681-F74C00E0500C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB53255-99CC-406C-A681-F74C00E0500C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB53255-99CC-406C-A681-F74C00E0500C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB53255-99CC-406C-A681-F74C00E0500C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422FF18D-A821-4534-8155-63BDFFAE14B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422FF18D-A821-4534-8155-63BDFFAE14B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422FF18D-A821-4534-8155-63BDFFAE14B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422FF18D-A821-4534-8155-63BDFFAE14B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7235D1C-E678-4A03-B592-7AB83C5D8E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7235D1C-E678-4A03-B592-7AB83C5D8E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7235D1C-E678-4A03-B592-7AB83C5D8E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7235D1C-E678-4A03-B592-7AB83C5D8E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
